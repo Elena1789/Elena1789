@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <h1>Hi there! I'm Elena.</h1>
     <h3>FrontEnd Developer from Cannes.</h3>
     <br>
     <h3>Get in contact:</h3>
