@@ -22,7 +22,7 @@
 [![](https://raw.githubusercontent.com/Elena1789/Elena/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Elena1789/Elena/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
     <br>
-</div>
+
 
 
 
