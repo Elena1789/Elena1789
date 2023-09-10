@@ -4,7 +4,7 @@
     <h3>Get in contact:</h3>
     <br>
     <p>
-<a href="https://www.linkedin.com/in/elena-dubovskaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elena-dubovskaia/" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/elena-dubovskaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elena-dubovskaia/" height="30" width="40" /></a>
 </p>
     <h3>Technology stack:</h3>
     <br>
