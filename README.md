@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h3>FrontEnd Developer from Cannes</h3>
+    <h3>Developer from Cannes</h3>
     <br> 
     <h3>Get in contact:</h3>
     <br>
